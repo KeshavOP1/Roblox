@@ -1,0 +1,28 @@
+{
+  "name": "FPSGame",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts"
+      }
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "Workspace": {
+      "Maps": {
+        "$path": "src/Maps"
+      }
+    }
+  }
+} 
